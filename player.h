@@ -13,7 +13,7 @@
 #define JUMP_START_SPEED 9.81
 #define JUMP_RISE_LOSS 0.1
 
-// New for Climbing.
+// New for Climbing
 #define FALL_SIDE_MOMENTUM 0.072
 #define CLIMB_SPEED 0.2
 
